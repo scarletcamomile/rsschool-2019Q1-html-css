@@ -1,1 +1,2 @@
-# rsschool-2019Q1-codeacademy
+Daria Strokach  
+HTML CSS Basics: https://www.codecademy.com/users/scarletcamomile/achievements
